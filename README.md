@@ -2,18 +2,14 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
+Features:
 
-A few resources to get you started if this is your first Flutter project:
+GreetingWidget: A StatelessWidget that displays a greeting message with customizable text style.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+CounterWidget: A StatefulWidget that displays a counter and increments each time a button is pressed.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MyApp: The main Flutter application widget that combines the GreetingWidget and CounterWidget into a widget tree.
 
-## Getting Started: FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+Font: Used "Italic" for the text of Greetings.
+
